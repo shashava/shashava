@@ -1,0 +1,83 @@
+<!--
+    Page: Portfolio Homepage
+    Author:shashava
+    Language: HTML 5
+    Licence: MIT
+    Date:Sept, 2021
+-->
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet"href="C:\Users\hp 430 g3\Desktop\web development 1 portfolio\main css.css"
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="author" content="shashava">
+    <script src="https://kit.fontawesome.com/ba30d66fa2.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="./css/main.css">
+    <title>SIMON SHASHAVA:Home Page</title>
+</head>
+<body>
+
+    <!--navigation bar-->
+ <nav class="navbar">
+    <button id="navbar-toggler"></button>
+   <a href="">shashava</a>
+   <div class="navbar-collapse">
+    <a href="" class="nav-link">home</a><i class= "fas fa-home"></i>
+    <a href="" class="nav-link">Projects</a><i class="fas fa-tasks"></i>   
+     <a href="" class="nav-link">Contact</a><i class="fal fa-address-card"></i>
+    <a href="" class="nav-link">Services</a><i class="fab fa-servicestack"></i>
+    <a href="" class="nav-link">about</a><i class="fas fa-address-card"></i>
+   </div>
+</nav>
+    
+
+
+    <!--Hero Section-->
+<div>
+    <img src="C:\Users\hp 430 g3\Downloads\DSC_1933__2_-removebg-preview (1).png" alt="SHASHAVA"/>
+    <h1>Hi I AM SHASHAVA</h1>
+    <pre></pre>
+    <p>A very <em>determined and focused</em> student who fell in love with <strong>Computer Science <br>who will always  go extra miles to succeed in it.</em></p>
+</div> 
+<!--main section-->
+
+<main>
+    <!--Featured PROJECTS-->
+    <div>
+        <h2>Featured Projects</h2>
+    </div>
+ 
+ </main>
+ 
+ <!--footer section-->
+ <footer>
+     <ul>
+         <li><a href=>request features</a></li><i class="fab fa-github"></i>
+         <li><a href=>tweet</a></li> <i class="fab fa-twitter"></i>
+         <li><a href>follow @__shashava.</a></li><i class="fab fa-instagram"></i>
+         <li><a href=>LinkedIn</a></li><i class="fab fa-linkedin-in"></i>
+         <li><a href=>symoyugin@gmail.com</a></li><i class="fas fa-envelope-square"></i>
+         <li><a href=>meta</a></li><i class="fab fa-facebook"></i>
+          </p> <!-- c --> 2021 all rights <reserved class="tm">simon shashava</reserved>
+
+     </ul>
+  
+ </footer>
+ 
+ 
+
+<!---Footer section-->
+<footer>
+
+
+</footer>
+<script src="js/index.js"></script>
+</body>
+</html>
+
+
